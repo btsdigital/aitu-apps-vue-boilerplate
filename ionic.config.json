@@ -1,0 +1,7 @@
+{
+  "name": "aitu-apps-vue-boilerplate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
